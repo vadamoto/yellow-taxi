@@ -1,6 +1,6 @@
 numpy
 pandas
-ipywidgets==0.2.1
+ipywidgets
 matplotlib
 bqplot
-ipyleaflet
+ipyleaflet==0.2.1
