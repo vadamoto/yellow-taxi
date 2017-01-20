@@ -2,5 +2,3 @@ numpy
 pandas
 ipywidgets
 matplotlib
-bqplot
-ipyleaflet==0.2.1
